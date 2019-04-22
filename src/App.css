@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Casino Queen Normal';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Casino Queen Normal'), url('./font/CASIQN__.woff') format('woff');
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
